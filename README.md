@@ -22,7 +22,3 @@ Saya adalah **IT Project Manager** yang fokus pada transformasi digital, infrast
 </p>
 
 ---
-
-### 💼 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/risbiawan/)
-- 🌐 [Website](https://risbiawan.com)
